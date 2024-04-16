@@ -13,3 +13,4 @@ This application currently supports the deatures including
 Meanwhile, this application could be imrpoved by
 - supporting multiple data formats such as csv/json/xml/etc
 - allowing a user to input multiple company names and download data in one single file
+- creating a more visual appealing interface for the application
